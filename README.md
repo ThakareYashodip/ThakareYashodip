@@ -1,21 +1,104 @@
-# 💫 About Me:
-<br><br>1. **I am currently working on:**<br>   Crafting a cross-platform app using Flutter, blending smooth UI/UX design with real-world functionality—because great apps start with great user experiences.<br><br>2. **I am currently learning:**<br>   Java backend development using **Spring Boot**, including concepts like REST APIs, JPA, and Hibernate.<br><br>3. **Ask me about:**<br>   Flutter development, Dart, Java basics, or building full-stack applications with Java and Spring Boot.<br><br>4. **Fun fact:**<br>   I love turning complex ideas into clean, functional apps—and I enjoy debugging more than writing the initial code! 😄<br><br>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Hello,+I'm+Yashodip+Thakare!+🚀;Full-stack+Flutter+%26+Java+Enthusiast" alt="Typing SVG" />
+</p>
 
+<!-- Table of Contents -->
+<details>
+<summary>📑 Table of Contents</summary>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ThakareYashodip) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashodipganu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YashodipThakare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yashodipganu) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Yashodip Thakare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganuthakare99@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThakareYashodip&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ThakareYashodip&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakareYashodip&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- [👨‍💻 About Me](#-about-me)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🎓 Skills & Tools](#-skills--tools)
+- [🚀 Projects](#-projects)
+- [📈 GitHub Stats](#-github-stats)
+- [📫 Connect with Me](#-connect-with-me)
+</details>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ThakareYashodip&icon=6&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+<details>
+<summary>What I'm up to</summary>
+
+- Currently building a **cross-platform app** with **Flutter**, focusing on sleek UI/UX and real-world use cases.
+- Diving deep into **Java** backend with **Spring Boot**, mastering REST APIs, JPA, and Hibernate.
+- Fun fact: I **love debugging** almost as much as building features! 😄
+</details>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <!-- More badges hidden by default -->
+  <details>
+    <summary>Show all</summary>
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+    <!-- Add additional as needed -->
+  </details>
+</p>
+
+---
+
+## 🎓 Skills & Tools
+<details>
+<summary>Click to expand</summary>
+
+- **Languages:** Java, Dart, JavaScript, SQL
+- **Frameworks:** Flutter, Spring Boot, JavaFX
+- **Databases:** MySQL, SQLite, Firebase
+- **DevOps & Cloud:** GitHub Actions, AWS, Firebase
+- **Others:** Postman, Git, Docker, Visual Studio Code
+
+</details>
+
+---
+
+## 🚀 Projects
+<!-- Showcase with project cards -->
+<div align="center">
+  <a href="https://github.com/ThakareYashodip/flutter-netflix-clone">
+    <img src="https://raw.githubusercontent.com/ThakareYashodip/flutter-netflix-clone/main/assets/screenshots/home.png" alt="Netflix Clone" width="200" />
+  </a>
+  <a href="https://github.com/ThakareYashodip/chrome-homepage-ui">
+    <img src="https://raw.githubusercontent.com/ThakareYashodip/chrome-homepage-ui/main/screenshots/desktop.png" alt="Chrome Homepage UI" width="200" />
+  </a>
+  <a href="https://github.com/ThakareYashodip/advanced-todo-app">
+    <img src="https://raw.githubusercontent.com/ThakareYashodip/advanced-todo-app/main/assets/todo_ui.png" alt="Advanced To-Do App" width="200" />
+  </a>
+</div>
+
+*Hover over the cards to see more details.*
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThakareYashodip&theme=radical&show_icons=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakareYashodip&theme=radical&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="mailto:ganuthakare99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YashodipThakare"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/yashodipganu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/yashodipganu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://mastodon.social/@Yashodip"><img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThakareYashodip&color=blueviolet" alt="Profile views" />
+</p>
