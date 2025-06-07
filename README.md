@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>1. **I am currently working on:**<br>   Crafting a cross-platform app using Flutter, blending smooth UI/UX design with real-world functionality—because great apps start with great user experiences.<br><br>2. **I am currently learning:**<br>   Java backend development using **Spring Boot**, including concepts like REST APIs, JPA, and Hibernate.<br><br>3. **Ask me about:**<br>   Flutter development, Dart, Java basics, or building full-stack applications with Java and Spring Boot.<br><br>4. **Fun fact:**<br>   I love turning complex ideas into clean, functional apps—and I  debugging more than writing the initial code! 😄<br><br>
+<br><br>1. **I am currently working on:**<br>   Crafting a cross-platform app using Flutter, blending smooth UI/UX design with real-world functionality—because great apps start with great user experiences.<br><br>2. **I am currently learning:**<br>   Java backend development using **Spring Boot**, including concepts like REST APIs, JPA, and Hibernate.<br><br>3. **Ask me about:**<br>   Flutter development, Dart, Java basics, or building full-stack applications with Java and Spring Boot.<br><br>4. **Fun fact:**<br>   I love turning complex ideas into clean, functional apps—and I enjoy debugging more than writing the initial code! 😄<br><br>
 
 
 ## 🌐 Socials:
